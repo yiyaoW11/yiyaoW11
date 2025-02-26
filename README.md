@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yiyaoW11 a 3rd year student at UNSW studying a Bachelor of Computer Science/ Actuarial Studies. 
-- 👀 I’m interested in Computer Science (AI and machine Learning) and Actuarial Studies (Statistical Modelling and Insurance)
+- 👀 I’m interested in Computer Science (AI and Machine Learning) and Actuarial Studies (Statistical Modelling and Insurance)
 - 🌱 I’m currently creating a Chess AI game!
 - 😄 Pronouns: She/ Her
 
