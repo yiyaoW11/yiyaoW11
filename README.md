@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @yiyaoW11 a 2nd year student at UNSW studying a Bachelor of Computer Science/ Actuarial Studies. 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Structure and Algorithms. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @yiyaoW11 a 3rd year student at UNSW studying a Bachelor of Computer Science/ Actuarial Studies. 
+- 👀 I’m interested in Computer Science (AI and machine Learning) and Actuarial Studies (Statistical Modelling and Insurance)
+- 🌱 I’m currently creating a Chess AI game!
 - 😄 Pronouns: She/ Her
-- ⚡ Fun fact: ...
 
 <!---
 yiyaoW11/yiyaoW11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
